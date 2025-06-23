@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔭 Learning full-stack web development and building personal projects to strengthen my skills.<br>👯 looking for coding projects, hackathons, or anything that helps me learn and grow<br>🤝 I’m looking for help with Improving problem-solving skills, writing cleaner code, and understanding backend concepts better<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact : I turned a simple curiosity into a coding habit—and now I can’t stop building stuff!
-
-
-
+🚀 Aspiring Software Developer | BCA Graduate | Web Developer | Passionate About DSA & Problem-Solving 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashchoudhary1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
