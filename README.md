@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Learning full-stack web development and building personal projects to strengthen my skills.<br>👯 looking for coding projects, hackathons, or anything that helps me learn and grow<br>🤝 I’m looking for help with Improving problem-solving skills, writing cleaner code, and understanding backend concepts better<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact : I turned a simple curiosity into a coding habit—and now I can’t stop building stuff!
+
+
 
 
 ## 🌐 Socials:
