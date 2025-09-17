@@ -2,7 +2,7 @@
 🚀 Aspiring Software Developer | BCA Graduate | Web Developer | Passionate About DSA & Problem-Solving 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashchoudhary1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" /> </p>
 <p align="left"> <img src="https://wakatime.com/badge/user/1e8de036-955b-4c33-a64c-c64005d0f0a8.svg" alt="Akashchoudhary01" /> </p>
