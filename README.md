@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Software Developer | BCA Graduate | Web Developer | Passionate About DSA & Problem-Solving 
+🚀 Aspiring Software Developer  | Web Developer| MERN Stack | Freelancer | Passionate About DSA & Problem-Solving 
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
