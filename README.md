@@ -6,8 +6,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" /> </p>
-<p align="left"> <img src="https://wakatime.com/badge/user/c7828d4e-27fa-4135-812f-1359d903a37b.svg" alt="Akashchoudhary01" /> </p>
-<a href="https://wakatime.com/@c7828d4e-27fa-4135-812f-1359d903a37b"><img src="https://wakatime.com/badge/user/c7828d4e-27fa-4135-812f-1359d903a37b.svg" alt="Total time coded since Jul 4 2025" /></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akas8hh&show_icons=true&theme=radical)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akas8hh&theme=radical)
+
 
 
 
