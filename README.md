@@ -5,10 +5,17 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akas8hh&show_icons=true&theme=radical)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akas8hh&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akas8hh&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akas8hh&theme=radical" alt="WakaTime stats" />
+</p>
 
 
 
