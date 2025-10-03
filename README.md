@@ -5,7 +5,8 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashchoudhary007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrchoudhary007@gmail.com) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" /> </p>
-<p align="left"> <img src="https://wakatime.com/badge/user/1e8de036-955b-4c33-a64c-c64005d0f0a8.svg" alt="Akashchoudhary01" /> </p>
+<p align="left"> <img src="https://wakatime.com/share/@c7828d4e-27fa-4135-812f-1359d903a37b/d362b441-00cf-4487-bc10-9ef628b78c15.png" alt="Akashchoudhary01" /> </p>
+
 
 
 # 💻 Tech Stack:
