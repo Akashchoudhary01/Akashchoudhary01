@@ -6,8 +6,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" /> </p>
-<p align="left"> <img src="https://wakatime.com/share/@c7828d4e-27fa-4135-812f-1359d903a37b/d362b441-00cf-4487-bc10-9ef628b78c15.png" alt="Akashchoudhary01" /> </p>
-<p align="left"> <img src="https://wakatime.com/share/@c7828d4e-27fa-4135-812f-1359d903a37b/cf072bd7-fb4e-4e80-81d6-b2cb37f02e90.svg" alt="Akashchoudhary01" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/c7828d4e-27fa-4135-812f-1359d903a37b.svg" alt="Akashchoudhary01" /> </p>
+
 
 
 
