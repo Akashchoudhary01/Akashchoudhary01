@@ -9,10 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" />
 </p>
 
+<p align="left">
 ### ⏱️ My Coding Activity
 [![wakatime](https://wakatime.com/badge/user/c7828d4e-27fa-4135-812f-1359d903a37b.svg)](https://wakatime.com/@c7828d4e-27fa-4135-812f-1359d903a37b)
-
-
+</p>
 
 
 
