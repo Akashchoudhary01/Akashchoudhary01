@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akashchoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="Akashchoudhary01" />
 </p>
-
+<p align="right"> <img src="https://wakatime.com/badge/user/1e8de036-955b-4c33-a64c-c64005d0f0a8.svg" alt="krakenftw" /> </p>
 
 
 
